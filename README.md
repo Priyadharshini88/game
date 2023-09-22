@@ -1,5 +1,5 @@
 
-# CODSOFT-JAVA-DEVELOPMENT-TASK 1
+# CODSOFT-JAVA-DEVELOPMENT-TASK 1-NUMBER GUESSING GAME
 Repository showcasing my completed projects and tasks during my Java Development internship at CODSOFT. Here, you'll find the code and documentation for the various assignments and projects I worked on, demonstrating my growth and skills as a Java intern at CODSOFT.
 
 # Task 1
